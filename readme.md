@@ -1,1 +1,1 @@
-#retial management system
+#retail management system
